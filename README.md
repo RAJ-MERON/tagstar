@@ -1,7 +1,7 @@
 TagStar is a very simple jQuery plugin
 > tagstar.jquery.min v0.1 makes it easier to create,enhance and costumize TAGS in websites.
 
-#How to use Tagstar?
+How to use Tagstar?
 
 Create DOM element with id "tagcontainer".
 
@@ -9,10 +9,10 @@ Include tagstar.jquery.min.js
 
  <a style="text-decoration:none; background:#fff;" href='http://jquery.com'> Include Jquery Library minimum v1.7 </a> 
 
-#Default Usage: 
+Default Usage: 
       $('#tagcontainer').tagstar();
 
-#Passing Tag Values and their corresponding links successively into stringarr:
+Passing Tag Values and their corresponding links successively into stringarr:
   [ Tags have IDs #tag1, #tag2, #tag3 .. etc. and Class .tags ] 
   
     $("#tagcontainer").tagstar({

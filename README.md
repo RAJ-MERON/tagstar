@@ -56,6 +56,5 @@ Links costumizable parameters
          linkfontfamily:'"Gill Sans", "Gill Sans MT", "Myriad Pro","DejaVu Sans Condensed", Helvetica, Arial, sans-serif"' 
 
 
-##  Developed by Raj Moharana 
-## © 2015-17 
-## Created on December 2015
+#  Developed by Raj Kishor Maharana 
+#  December 2015
